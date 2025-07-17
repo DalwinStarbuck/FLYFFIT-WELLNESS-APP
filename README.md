@@ -1,6 +1,6 @@
-# FLYFIT-WELLNESS-APP
+
 Health and wellness app
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
